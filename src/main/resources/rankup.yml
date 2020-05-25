@@ -1,0 +1,32 @@
+prestige:
+  - eta add {player} prestige 1
+
+rankup:
+  - lp promote user {player} track mine # maybe something like this to promote them up the track?
+
+prices: # these are based on permissions so add emc.rankup.<letter> to each group
+  a: 10000.0
+  b: 10000.0
+  c: 10000.0
+  d: 10000.0
+  e: 10000.0
+  f: 10000.0
+  g: 10000.0
+  h: 10000.0
+  i: 10000.0
+  j: 10000.0
+  k: 10000.0
+  l: 10000.0
+  m: 10000.0
+  n: 10000.0
+  o: 10000.0
+  p: 10000.0
+  q: 10000.0
+  r: 10000.0
+  s: 10000.0
+  t: 10000.0
+  u: 10000.0
+  v: 10000.0
+  w: 10000.0
+  x: 10000.0
+  y: 10000.0

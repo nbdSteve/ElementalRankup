@@ -1,0 +1,8 @@
+command:
+  help: emc.rankup.help
+  reload: emc.rankup.help
+  rankup: emc.rankup.help
+  prestige: emc.rankup.help
+
+misc:
+  z-rank: emc.rankup.z

@@ -1,0 +1,14 @@
+insufficient-funds:
+  - '&b&lRankup &4(&c&lERROR&4) &f» &7You do not have enough money to rankup yet.'
+
+rankup:
+  - '&b&lRankup &f» &7You have successfully ranked up to &a{rank}&7.'
+
+prestige:
+  - '&b&lPrestige &f» &7You have successfully prestiged! Your rank has been reset to &aA&7.'
+
+help:
+  - '&b&lRankup &f» &7Use &a/rankup &7to advance to the next rank, use &a/prestige &7to prestige.'
+
+reload:
+  - '&b&lRankup &f» &7You have successfully reloaded the plugin.'

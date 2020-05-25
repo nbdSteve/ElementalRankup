@@ -1,0 +1,16 @@
+name: Rankup
+version: ${project.version}
+main: gg.steve.elemental.ru.Rankup
+api-version: 1.13
+authors: [stevegoodhill]
+description: Rankup plugin for ElementalMC.
+commands:
+  prestige:
+    usage: /<command>
+    description: Use this command to prestige when you are at rank Z.
+  rankup:
+    usage: /<command>
+    description: Use this command to rankup to the next level.
+  maxrankup:
+    usage: /<command>
+    description: Use this command to rankup the maximum amount of times based on your balance.

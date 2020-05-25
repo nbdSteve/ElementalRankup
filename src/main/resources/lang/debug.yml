@@ -1,0 +1,14 @@
+insufficient-permission:
+  - '&b&lRankup &4(&c&lERROR&4) &f» &7You do not the permission (&a{node}&7) require to use that.'
+
+invalid-command:
+  - '&b&lRankup &4(&c&lERROR&4) &f» &7The command you entered is invalid.'
+
+only-player-accessible:
+  - '&b&lRankup &4(&c&lERROR&4) &f» &7Only players can use that command.'
+
+max-rank:
+  - '&b&lRankup &4(&c&lERROR&4) &f» &7You can not rank up any further, try &a/prestige&7.'
+
+not-max-rank:
+  - '&b&lRankup &4(&c&lERROR&4) &f» &7You can not prestige yet, try &a/rankup &7or &a/maxrankup&7.'
